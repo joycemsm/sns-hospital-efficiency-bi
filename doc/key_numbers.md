@@ -1,4 +1,4 @@
-# Key Numbers (English) – Quick Reference
+# Key Numbers – Quick Reference
 
 The full report for this project is written in Portuguese, so I kept this short page in English to make the main numbers easy to find for anyone reviewing the work.
 
